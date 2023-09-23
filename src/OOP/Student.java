@@ -50,9 +50,10 @@ public class Student {
         no3.setAge(14);
 
         int[]jss1a = {no1.getAge(), no2.getAge(), no3.getAge()};
-        for (int i = 0; i<jss1a.length; i++){
-            total = total + jss1a[i];
-        }System.out.println(total);
+        for (int j : jss1a) {
+            total = total + j;
+        }
+        System.out.println(total);
 
 
 
