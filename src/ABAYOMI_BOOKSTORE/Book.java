@@ -1,8 +1,8 @@
 package ABAYOMI_BOOKSTORE;
 
-Question: Online Bookstore System
+/**Question: Online Bookstore System
 
-       /** Scenario:
+        Scenario:
 
         You are tasked with designing an online bookstore system.
         The system should allow customers to browse, purchase, and manage books,
