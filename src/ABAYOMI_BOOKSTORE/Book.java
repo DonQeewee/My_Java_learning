@@ -33,7 +33,7 @@ package ABAYOMI_BOOKSTORE;
 //
 //        Enumerate the potential challenges or issues that might arise in implementing such a system, and propose solutions or strategies to address them.
 //
-//        Note: your code should be self explanatory and use comment where necessary.
+//        Note: your code should be self-explanatory and use comment where necessary.
 //        GoodLuck :)
 
 
