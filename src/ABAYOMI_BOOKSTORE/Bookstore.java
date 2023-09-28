@@ -5,14 +5,9 @@ import com.sun.jdi.PathSearchingVirtualMachine;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Bookstore extends Book{
+public class Bookstore {
 
         private static List<Book> bookShelf = new ArrayList<>(50);
-
-    public Bookstore(String title, Genre genre, double price) {
-        super(title, genre, price);
-    }
-    //creating an array list of books on the bookshelf.
 
     public void addBook(Book book) {
         bookShelf.add(book);

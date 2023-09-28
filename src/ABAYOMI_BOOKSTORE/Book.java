@@ -41,7 +41,7 @@ package ABAYOMI_BOOKSTORE;
 public class Book {
 
         private String title;
-        Genre genre; //The class Genre is hereby called to serve as one of the atttributes of the class Book.
+        Genre genre;
         private double price;
 
         public Book(String title, Genre genre, double price) {
